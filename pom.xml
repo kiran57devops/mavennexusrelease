@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>arrel</id>
-			<url>http://localhost:8081/nexus/content/repositories/arrel/</url>
+			<id>RE</id>
+			<url>http://localhost:8081/nexus/content/repositories/RE/</url>
 		</repository>
 		<snapshotRepository>
-			<id>arsnp</id>
-			<url>http://localhost:8081/nexus/content/repositories/arsnp/</url>
+			<id>SN</id>
+			<url>http://localhost:8081/nexus/content/repositories/SN/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
